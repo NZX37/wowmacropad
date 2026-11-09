@@ -18,13 +18,13 @@ wowmacropad is a macropad with a joystick on the side, a screen and a rotary enc
 
 KiCad source files are in [`kicad files/`](kicad%20files/). The schematic and board previews are shown below.
 
-| Schematic | PCB layout | Board view |
+| Schematic | PCB layout | CAD |
 | --- | --- | --- |
-| ![Schematic](image-1.png) | ![PCB layout](image-2.png) | ![Board view](image-3.png) |
+| ![Schematic](image1.png) | ![PCB layout](image2.png) | ![CAD](image3.png) |
 
 ## Manufacturing
 
-Ready-to-upload Gerber and drill files are in [`Production Files/`](Production%20Files/). The original fabrication bundle is [`EaSyPower32_v1.zip`](Production%20Files/EaSyPower32_v1.zip). It contains the copper, solder mask, paste, silkscreen, board outline, and plated/non-plated drill files. The matching BOM and placement files are included as CSVs in the same folder.
+Ready-to-upload Gerber and drill files are in [`Production Files/`](Production%20Files/).
 
 For a new or modified board revision, open `breadESP32.kicad_pcb` in KiCad and regenerate fabrication outputs from that board before ordering. Check the board outline and manufacturer design rules against your chosen fabricator.
 

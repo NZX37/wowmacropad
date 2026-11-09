@@ -20,7 +20,7 @@ KiCad source files are in [`kicad files/`](kicad%20files/). The schematic and bo
 
 | Schematic | PCB layout | CAD |
 | --- | --- | --- |
-| ![Schematic](image1.png) | ![PCB layout](image2.png) | ![CAD](image3.png) |
+| ![Schematic](images/image1.png) | ![PCB layout](images/image2.png) | ![CAD](images/image3.png) |
 
 ## Manufacturing
 

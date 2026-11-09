@@ -1,4 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 ESP32-S3-DevKit-Lipo,1,digikey,$9.21,$9.21,https://www.digikey.com/en/products/detail/olimex-ltd/ESP32-S3-DEVKIT-LIPO/21662537
 "LCD TFT 1.54"" ST7789",1,kuriosity,$12.00,$12.00,https://kuriosity.sg/products/lcd-tft-1-54-st7789?_pos=3&_sid=fdf40bb40&_ss=r
+PCB,1,JLCPCB,$15.75,$15.75,https://jlcpcb.com
 Estimated total shipping,1,,,$8.69,
